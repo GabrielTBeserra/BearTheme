@@ -1,0 +1,21 @@
+{
+    "name": "beartheme",
+    "displayName": "BearTheme",
+    "description": "O Thema do Urso",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "BearTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-color-theme.json"
+            }
+        ]
+    }
+}
