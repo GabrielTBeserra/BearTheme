@@ -3,8 +3,13 @@
     "displayName": "BearTheme",
     "description": "O Thema do Urso",
     "version": "0.0.1",
+    "publisher": "GabrielTeles",
     "engines": {
         "vscode": "^1.60.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GabrielTBeserra/BearTheme"
     },
     "categories": [
         "Themes"

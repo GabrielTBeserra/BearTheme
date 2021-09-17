@@ -2,15 +2,15 @@
 	"name": "BearTheme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#05000a",
+		"editor.background": "#010002",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#7600bb",
+		"activityBarBadge.background": "#3c005f",
 		"sideBarTitle.foreground": "#ffffff",
 		"sideBar.background": "#090011",
-		"activityBar.background": "#0f0013",
+		"activityBar.background": "#050007",
 		"editorGroupHeader.border": "#cc00ff",
-		"tab.hoverBackground": "#200012",
-		"titleBar.activeBackground": "#3c009c",
+		"tab.hoverBackground": "#3b0032",
+		"titleBar.activeBackground": "#0f0027",
 		"editorGroupHeader.tabsBackground": "#0a001b"
 	},
 	"tokenColors": [
@@ -32,7 +32,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#ff02dd"
+				"foreground": "#7802ff"
 			}
 		},
 		{
@@ -62,7 +62,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#ff008c"
+				"foreground": "#00ff37"
 			}
 		},
 		{
@@ -82,7 +82,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#0062f5"
+				"foreground": "#f5004a"
 			}
 		},
 		{
@@ -106,7 +106,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#6200ff"
+				"foreground": "#8400ff"
 			}
 		},
 		{
@@ -141,7 +141,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#71f76c"
 			}
 		},
 		{
@@ -156,7 +156,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#a707d8"
+				"foreground": "#00c5b5"
 			}
 		},
 		{
@@ -172,7 +172,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ffe449"
 			}
 		},
 		{
