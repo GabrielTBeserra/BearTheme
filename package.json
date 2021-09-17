@@ -2,8 +2,11 @@
     "name": "beartheme",
     "displayName": "BearTheme",
     "description": "O Thema do Urso",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "GabrielTeles",
+    "author": {
+        "name": "GabrielTeles"
+    },
     "engines": {
         "vscode": "^1.60.0"
     },
@@ -22,5 +25,6 @@
                 "path": "./themes/BearTheme-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "logo.png"
 }
