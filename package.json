@@ -2,7 +2,7 @@
     "name": "beartheme",
     "displayName": "BearTheme",
     "description": "O Thema do Urso",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "GabrielTeles",
     "author": {
         "name": "GabrielTeles"
@@ -19,6 +19,11 @@
     ],
     "contributes": {
         "themes": [
+            {
+                "label": "BearThemeHighContrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-color-theme-high-contrast.json"
+            },
             {
                 "label": "BearTheme",
                 "uiTheme": "vs-dark",
