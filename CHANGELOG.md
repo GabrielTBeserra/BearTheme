@@ -2,7 +2,7 @@
 
 All notable changes to the "BearTheme" extension will be documented in this file.
 
-## [0.2.0] - 2026-09-11
+## [1.2.0] - 2026-09-11
 
 ### Added
 - Added 6 new Catppuccin-inspired pastel themes:

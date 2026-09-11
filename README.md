@@ -6,7 +6,7 @@
 
 **Um conjunto completo de 13 temas elegantes, modernos e confortáveis para o Visual Studio Code.**
 
-[![Version](https://img.shields.io/badge/version-0.2.0-blue.svg)](https://marketplace.visualstudio.com/items?itemName=GabrielTeles.beartheme)
+[![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)](https://marketplace.visualstudio.com/items?itemName=GabrielTeles.beartheme)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![VS Code](https://img.shields.io/badge/VS%20Code-%5E1.60.0-007ACC.svg)](https://code.visualstudio.com/)
 
