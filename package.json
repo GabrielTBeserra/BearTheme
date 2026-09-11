@@ -2,7 +2,7 @@
     "name": "beartheme",
     "displayName": "BearTheme",
     "description": "O Thema do Urso",
-    "version": "0.0.4",
+    "version": "0.2.0",
     "publisher": "GabrielTeles",
     "author": {
         "name": "GabrielTeles"
@@ -14,20 +14,83 @@
         "type": "git",
         "url": "https://github.com/GabrielTBeserra/BearTheme"
     },
+    "license": "MIT",
+    "scripts": {
+        "package": "vsce package",
+        "publish": "vsce publish",
+        "publish:patch": "vsce publish patch",
+        "publish:minor": "vsce publish minor",
+        "publish:major": "vsce publish major"
+    },
     "categories": [
         "Themes"
     ],
     "contributes": {
         "themes": [
             {
-                "label": "BearThemeHighContrast",
+                "label": "BearTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-color-theme.json"
+            },
+            {
+                "label": "BearTheme High Contrast",
                 "uiTheme": "vs-dark",
                 "path": "./themes/BearTheme-color-theme-high-contrast.json"
             },
             {
-                "label": "BearTheme",
+                "label": "Bear Polar (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/BearTheme-polar-light.json"
+            },
+            {
+                "label": "Bear Honey (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/BearTheme-honey-light.json"
+            },
+            {
+                "label": "Bear Pastel Latte (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/BearTheme-pastel-latte-light.json"
+            },
+            {
+                "label": "Bear Pastel Matcha (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/BearTheme-pastel-matcha-light.json"
+            },
+            {
+                "label": "Bear Pastel Blossom (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/BearTheme-pastel-blossom-light.json"
+            },
+            {
+                "label": "Bear Cyber (Dark)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/BearTheme-color-theme.json"
+                "path": "./themes/BearTheme-cyber-dark.json"
+            },
+            {
+                "label": "Bear Forest (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-forest-dark.json"
+            },
+            {
+                "label": "Bear Midnight (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-midnight-dark.json"
+            },
+            {
+                "label": "Bear Pastel Mocha (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-pastel-mocha-dark.json"
+            },
+            {
+                "label": "Bear Pastel Frappé (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-pastel-frappe-dark.json"
+            },
+            {
+                "label": "Bear Pastel Macchiato (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-pastel-macchiato-dark.json"
             }
         ]
     },
