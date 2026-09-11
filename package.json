@@ -2,7 +2,7 @@
     "name": "beartheme",
     "displayName": "BearTheme",
     "description": "O Thema do Urso",
-    "version": "1.3.0",
+    "version": "2.0.0",
     "publisher": "GabrielTeles",
     "author": {
         "name": "GabrielTeles"
@@ -91,6 +91,56 @@
                 "label": "Bear Pastel Macchiato (Dark)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/BearTheme-pastel-macchiato-dark.json"
+            },
+            {
+                "label": "Bear Cyberpunk Neo-Tokyo (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/BearTheme-cyberpunk-neotokyo-light.json"
+            },
+            {
+                "label": "Bear Terracotta & Clay (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/BearTheme-terracotta-clay-light.json"
+            },
+            {
+                "label": "Bear Solar Flare (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/BearTheme-solar-flare-light.json"
+            },
+            {
+                "label": "Bear Lavender Cloud (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/BearTheme-lavender-cloud-light.json"
+            },
+            {
+                "label": "Bear Terminal 90s (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/BearTheme-terminal-90s-light.json"
+            },
+            {
+                "label": "Bear Obsidian Blood (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-obsidian-blood-dark.json"
+            },
+            {
+                "label": "Bear Matrix Acid (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-matrix-acid-dark.json"
+            },
+            {
+                "label": "Bear Deep Abyss (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-deep-abyss-dark.json"
+            },
+            {
+                "label": "Bear Volcanic Magma (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-volcanic-magma-dark.json"
+            },
+            {
+                "label": "Bear Synthwave Sunset 84 (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-synthwave-sunset84-dark.json"
             }
         ]
     },
