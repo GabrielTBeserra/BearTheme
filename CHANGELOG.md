@@ -2,6 +2,12 @@
 
 All notable changes to the "BearTheme" extension will be documented in this file.
 
+## [1.3.0] - 2026-09-11
+
+### Changed
+- Brand new minimalist Nordic bear silhouette icon logo.
+- Refined catalog of 13 complete themes (Light & Dark).
+
 ## [1.2.0] - 2026-09-11
 
 ### Added
