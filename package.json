@@ -141,6 +141,56 @@
                 "label": "Bear Synthwave Sunset 84 (Dark)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/BearTheme-synthwave-sunset84-dark.json"
+            },
+            {
+                "label": "Bear Nord Night (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-nord-night-dark.json"
+            },
+            {
+                "label": "Bear Gruvbox Cave (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-gruvbox-cave-dark.json"
+            },
+            {
+                "label": "Bear Rosé Pine (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-rose-pine-dark.json"
+            },
+            {
+                "label": "Bear Amber Bourbon (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-amber-bourbon-dark.json"
+            },
+            {
+                "label": "Bear Sakura Night (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-sakura-night-dark.json"
+            },
+            {
+                "label": "Bear CRT Phosphor (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-crt-phosphor-dark.json"
+            },
+            {
+                "label": "Bear Ukiyo-e Ink (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-ukiyoe-dark.json"
+            },
+            {
+                "label": "Bear Toxic Sludge (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-toxic-sludge-dark.json"
+            },
+            {
+                "label": "Bear Vapor Mall (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-vapor-mall-dark.json"
+            },
+            {
+                "label": "Bear Witchcraft (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BearTheme-witchcraft-dark.json"
             }
         ]
     },

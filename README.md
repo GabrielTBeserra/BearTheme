@@ -4,7 +4,7 @@
 
 # BearTheme 🐻
 
-**Uma coleção definitiva de 23 temas elegantes, confortáveis e marcantes para o Visual Studio Code.**
+**Uma coleção definitiva de 33 temas elegantes, confortáveis e marcantes para o Visual Studio Code.**
 
 [![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://marketplace.visualstudio.com/items?itemName=GabrielTeles.beartheme)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -16,11 +16,11 @@
 
 ## 🌟 O que é o BearTheme?
 
-O **BearTheme** é uma suíte completa com **23 variações de temas** cuidadosamente projetadas para todos os estilos e ambientes de trabalho. Todos os temas possuem suporte completo tanto para **destaque de sintaxe (TextMate com 60 regras de tokens)** quanto para a **interface completa do editor (workbench com mais de 85 cores)**, abrangendo Activity Bar, Side Bar, Terminal Integrado, Abas, Status Bar, Breadcrumbs e Git Decorations.
+O **BearTheme** é uma suíte completa com **33 variações de temas** cuidadosamente projetadas para todos os estilos e ambientes de trabalho. Todos os temas possuem suporte completo tanto para **destaque de sintaxe (TextMate com 60 regras de tokens)** quanto para a **interface completa do editor (workbench com mais de 85 cores)**, abrangendo Activity Bar, Side Bar, Terminal Integrado, Abas, Status Bar, Breadcrumbs e Git Decorations.
 
 ---
 
-## 🎨 Catálogo Completo (23 Variações)
+## 🎨 Catálogo Completo (33 Variações)
 
 ### 🔥 Coleção Marcantes & Conceito (Diferentões de Alto Impacto)
 
@@ -37,6 +37,11 @@ O **BearTheme** é uma suíte completa com **23 variações de temas** cuidadosa
 * **Bear Deep Abyss (Dark)** — Profundezas abissais oceânicas. Azul-abismo ultra profundo (`#020b14`), água-viva ciano fosforescente (`#00ffff`) e coral magenta elétrico (`#ff00a0`).
 * **Bear Volcanic Magma (Dark)** — Pedra basáltica e lava incandescente. Carvão vulcânico (`#141111`), laranja brasa ardente (`#ff5722`) e amarelo enxofre (`#ffea00`).
 * **Bear Synthwave Sunset 84 (Dark)** — Retrowave / Outrun anos 80. Roxo arcade profundo (`#120826`), rosa fúcsia neon (`#ff007f`), pôr-do-sol laranja neon (`#ff7700`) e ciano laser.
+* **Bear CRT Phosphor (Dark)** — Terminal fósforo âmbar vintage. Preto quente de tela antiga (`#0d0803`), âmbar fósforo (`#ffb000`) e branco fosforescente (`#ffe9b3`).
+* **Bear Ukiyo-e Ink (Dark)** — Xilogravura japonesa. Índigo sumi profundo (`#0d1322`), vermelhão de selo (`#e04e39`), ouro gravura (`#d4a017`) e papel washi (`#e9dfc8`).
+* **Bear Toxic Sludge (Dark)** — Lodo radioativo e biohazard. Verde-lama venenoso (`#101206`), lima tóxica (`#c0ff00`) e laranja de perigo (`#ff9500`).
+* **Bear Vapor Mall (Dark)** — Vaporwave de shopping anos 90. Violeta neon (`#140d21`), rosa chiclete (`#ff71ce`), ciano letreiro (`#01cdfe`) e hortelã (`#05ffa1`).
+* **Bear Witchcraft (Dark)** — Ocultismo e poções. Preto ameixa (`#0e0812`), violeta ritual (`#b266ff`), verde poção (`#66ffc2`) e dourado vela (`#ffd166`).
 
 ---
 
@@ -57,13 +62,24 @@ Tons aveludados, macios e suaves que reduzem ao máximo o cansaço visual:
 * **Bear Honey (Light)** — Marfim e papiro claro com tons acolhedores de mel dourado (`#d97706`) e cedro.
 * **Bear Forest (Dark)** — O espírito do Urso Pardo e florestas densas. Verde obsidiana (`#0c1411`) e esmeralda (`#10b981`).
 * **Bear Midnight (Dark)** — Ardósia espacial profunda (`#080d1a`), azul estelar (`#38bdf8`) e lavanda cósmica (`#c084fc`).
+* **Bear Nord Night (Dark)** — Noite polar nórdica. Azul-petróleo ártico (`#242a33`), gelo frost (`#88c0d0`), aurora verde (`#a3be8c`) e vermelho boreal (`#bf616a`).
+* **Bear Sakura Night (Dark)** — Flor de cerejeira à luz da lua. Índigo-ameixa profundo (`#160f1c`), rosa sakura (`#f2a5c6`), azul luar (`#8fb8dd`) e verde bambu (`#a8c686`).
+
+---
+
+### 🥃 Coleção Retrô & Aconchego
+Tons quentes, analógicos e nostálgicos para sessões longas e confortáveis:
+
+* **Bear Gruvbox Cave (Dark)** — Retrô terroso clássico. Fundo caverna quente (`#1d2021`), amarelo mostarda (`#fabd2f`), verde musgo (`#b8bb26`) e laranja queimado (`#fe8019`).
+* **Bear Rosé Pine (Dark)** — Aveludado e sofisticado. Base violeta-escura (`#191724`), rosa (`#eb6f92`), dourado (`#f6c177`) e espuma (`#9ccfd8`).
+* **Bear Amber Bourbon (Dark)** — Uísque envelhecido em carvalho. Preto-café (`#140f0a`), âmbar dourado (`#fbbf24`), caramelo (`#e8c07d`) e couro (`#c97b3d`).
 
 ---
 
 ### ⚡ Coleção Clássica & Synthwave
 * **Bear Cyber (Dark)** — Synthwave / Cyberpunk elétrico com fundo violeta profundo (`#0a0714`), rosa neon (`#ff007f`) e ciano laser (`#00f0ff`).
-* **BearTheme (Dark)** — O clássico tema escuro com contraste neon vibrante.
-* **BearTheme High Contrast (Dark)** — Variação com pretos ainda mais profundos (`#010002`).
+* **BearTheme (Dark)** — O flagship do Urso. Realeza ursina: noite violeta (`#0c0913`), keywords em mel dourado (`#fbbf24`), funções em gelo (`#4cc9f0`) e mint (`#34d399`).
+* **BearTheme High Contrast (Dark)** — A mesma realeza roxo/mel levada ao limite: preto absoluto (`#010002`), neons saturados e bordas violeta elétricas.
 
 ---
 
@@ -71,7 +87,7 @@ Tons aveludados, macios e suaves que reduzem ao máximo o cansaço visual:
 
 1. Instale a extensão através do **Visual Studio Code Marketplace**.
 2. Pressione `Ctrl + K Ctrl + T` (ou `Cmd + K Cmd + T` no macOS) para abrir o seletor de temas.
-3. Escolha qualquer uma das 23 variações do **BearTheme**!
+3. Escolha qualquer uma das 33 variações do **BearTheme**!
 
 ---
 

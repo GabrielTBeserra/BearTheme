@@ -2,6 +2,25 @@
 
 All notable changes to the "BearTheme" extension will be documented in this file.
 
+## [Unreleased]
+
+### Added
+- **10 Brand New Dark Themes** (5 confortáveis + 5 diferentões):
+  - `Bear Nord Night (Dark)` — Nordic polar night with frost blue & aurora green.
+  - `Bear Gruvbox Cave (Dark)` — Warm retro cave with mustard yellow & burnt orange.
+  - `Bear Rosé Pine (Dark)` — Velvety rose, gold & foam on deep violet.
+  - `Bear Amber Bourbon (Dark)` — Aged whiskey amber & caramel on coffee black.
+  - `Bear Sakura Night (Dark)` — Moonlit cherry blossom pink & bamboo green.
+  - `Bear CRT Phosphor (Dark)` — Vintage amber phosphor terminal screen.
+  - `Bear Ukiyo-e Ink (Dark)` — Japanese woodblock: sumi indigo, vermilion & gold.
+  - `Bear Toxic Sludge (Dark)` — Radioactive sludge lime & biohazard orange.
+  - `Bear Vapor Mall (Dark)` — 90s vaporwave mall with bubblegum pink & neon cyan.
+  - `Bear Witchcraft (Dark)` — Occult ritual violet, potion green & candle gold.
+- The extension now proudly features **33 complete themes** covering every developer style!
+
+### Changed
+- **Flagship rework**: `BearTheme (Dark)` e `BearTheme High Contrast (Dark)` reconstruídos com workbench completo (84 cores de UI) e nova identidade marcante — roxo real + mel dourado sobre fundo violeta-noite / preto absoluto.
+
 ## [2.0.0] - 2026-09-11
 
 ### Added
