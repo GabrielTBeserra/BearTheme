@@ -2,7 +2,7 @@
 
 All notable changes to the "BearTheme" extension will be documented in this file.
 
-## [Unreleased]
+## [2.1.0] - 2026-11-02
 
 ### Added
 - **10 Brand New Dark Themes** (5 confortáveis + 5 diferentões):
